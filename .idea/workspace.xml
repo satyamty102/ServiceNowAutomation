@@ -4,32 +4,189 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d184a9fc-1b43-4f3a-a001-fe736ba86653" name="Changes" comment="" />
+    <list default="true" id="d184a9fc-1b43-4f3a-a001-fe736ba86653" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/Utils/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/tests/demoTest.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;satyamty102&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/satyamty102/ServiceNowAutomation&quot;,
+    &quot;accountId&quot;: &quot;30f80c4f-6a21-476c-89f7-c69e9f5c1d12&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2qBgYvI61WUpRVvnPKvhqwceCzT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.APIDEMO.testAPI.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/workspace/ServiceNowAutomation/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.PracticeFormTestII302.FillForm.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.Register002.completeRegistration (1).executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.Register002.completeRegistration.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC001Login.TC0001_LoginValidation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC001Login.loginvalidation.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC001Login.navigateToRegistrationPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.demoTest.openURL.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.postAPIRequest.createBooking.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.signUpTest.clickOnLogin.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.signUpTest.clickOnSignUp.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.signUpTest.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.signUpTest.verifyTitle.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/workspace/ServiceNowAutomation&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.Utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/workspace/ServiceNowAutomation/testng.xml">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/workspace/ServiceNowAutomation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ServiceNowAutomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeFormTestII302.FillForm" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ServiceNowAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.tests.PracticeFormTestII302" />
+      <option name="METHOD_NAME" value="FillForm" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC001Login.TC0001_LoginValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ServiceNowAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.tests.TC001Login" />
+      <option name="METHOD_NAME" value="TC0001_LoginValidation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getAPIRequest.testAPI" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ServiceNowAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.tests.getAPIRequest" />
+      <option name="METHOD_NAME" value="testAPI" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="postAPIRequest.createBooking" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ServiceNowAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.tests.postAPIRequest" />
+      <option name="METHOD_NAME" value="createBooking" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/workspace/ServiceNowAutomation/testng.xml" />
+        <item itemvalue="TestNG.PracticeFormTestII302.FillForm" />
+        <item itemvalue="TestNG.postAPIRequest.createBooking" />
+        <item itemvalue="TestNG.getAPIRequest.testAPI" />
+        <item itemvalue="TestNG.TC001Login.TC0001_LoginValidation" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -40,5 +197,16 @@
       <updated>1734141434436</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

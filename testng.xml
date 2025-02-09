@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="browser" value="Chrome"/>
+    <parameter name="url" value="https://demoqa.com/automation-practice-form"/>
+    <parameter name="firstName" value="Kumar"/>
+    <parameter name="lastName" value="Satyam"/>
+    <parameter name="email" value="satyamty102@gmail.com"/>
+    <parameter name="gender" value="other"/>
+    <parameter name="number" value="9504768254"/>
+    <parameter name="DOB" value="32/02/2003"/>
+    <test verbose="2" preserve-order="true"
+          name="C:/workspace/ServiceNowAutomation/src/test/java/org/tests/PracticeFormTestII302.java">
+        <classes>
+            <class name="org.tests.PracticeFormTestII302"/>
+        </classes>
+    </test>
+</suite>
